@@ -14,4 +14,4 @@ Until the list of pizzas is the restaurants is equal, this approach follows the 
 ### 02 Observer
 ![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/main/02.Observer/ObserverDiagram.drawio.png)
 ### 02 Weather Station
-![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/mail/02.Observer/WeatherStation.drawio.png)
+![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/main/02.Observer/WeatherStation.drawio.png)
