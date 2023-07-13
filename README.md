@@ -7,3 +7,9 @@ Also, **modules** are used for **name-spacing** when it’s needed.
 ### 04.03 Abstract Factory
 Despite the implementation given in tre book, **createPizza** method is implemented in **Abstract Pizza Store** intsted of **concrete Pizza Stores**.
 Until the list of pizzas is the restaurants is equal, this approach follows the DRY principle. Each **concrete Pizza Store** is in its module. **CreatePizza** method evaluates the name of the module and calls **new** method on the pizza from that **module**.
+
+
+## Diagrams
+
+### 02 Observer
+![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/71538d6775e3b40abe7456a0220f92ef2e8372c4/02.Observer/ObserverDiagram.drawio.png)
