@@ -13,7 +13,7 @@ Until the list of pizzas is the restaurants is equal, this approach follows the 
 ### 01 Strategy
 ![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/main/01.Strategy/StrategyDiagmar.drawio.png)
 ### 01 Ducks Imitation
-![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/mail/01.Strategy/DuckDiagram.drawio.png)
+![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/main/01.Strategy/DuckDiagram.drawio.png)
 
 ### 02 Observer
 ![Diagram](https://github.com/StanlyShauro/head-first-2020-ruby-design-patterns/blob/main/02.Observer/ObserverDiagram.drawio.png)
